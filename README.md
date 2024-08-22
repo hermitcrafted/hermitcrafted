@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://ukulele.straw.page/"><img src="[https://files.catbox.moe/695zvt.png](https://files.catbox.moe/85dgja.png)" style="width:290px;height:auto" alt="joel / ac applestruda"/></a></div>
 
 <!--
 **hermitcrafted/hermitcrafted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
